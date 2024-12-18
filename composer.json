@@ -11,5 +11,10 @@
         "slim/slim": "4.*",
         "slim/psr7": "^1.6",
         "pimple/pimple": "^3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
     }
 }
